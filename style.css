@@ -88,3 +88,13 @@ p{
     }
 
 }
+
+.footer{
+    position: fixed;
+    bottom: 1rem;
+    margin-top:100%;
+    font-style: italic;
+    color: #f018bd;
+    
+}
+
